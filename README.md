@@ -1,35 +1,27 @@
-## Run Locally
+# 🛒 Product Card UI Test – Frontend Developer
 
-Clone the project
+This project was built as a response to the Frontend UI test. It demonstrates a responsive and modern product card component.
 
-```bash
-  git clone https://dredsoft-labs-admin@bitbucket.org/dredsoft-labs/ecommerce.git
-```
+---
 
-Go to the project directory
+## ✅ Features
+- Product image, name, and price
+- Variant selector dropdown
+- "Add to Cart" button
+- "Out of Stock" handling
+- Clean layout with responsive design
 
-```bash
-  cd ecommerce
-```
+---
 
-Install dependencies
+## 🧠 Layout approach
+I created a reusable `ProductCard` component with modern layout using Flexbox and custom CSS. The structure is scalable and fits easily into any product listing page.
 
-```bash
-  npm install
+---
 
-  or 
+## 📱 Responsiveness
+The card automatically adjusts to smaller screen sizes using media queries. Buttons and dropdowns are full-width on mobile to ensure touch usability.
 
-  npm install react-material-ui-carousel --save --legacy-peer-deps
-```
+---
 
-Start the server
-
-```bash
-  npm start
-```
-
-The server should now be running. You can access the application by opening a web browser and entering the following URL:
-
-```bash
-  http://localhost:3000
-```
+## 🔗 Live Demo
+[Coming Soon – will deploy with Vercel]
