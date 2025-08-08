@@ -23,5 +23,4 @@ The card automatically adjusts to smaller screen sizes using media queries. Butt
 
 ---
 
-## 🔗 Live Demo
-[Coming Soon – will deploy with Vercel]
+
